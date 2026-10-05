@@ -82,10 +82,6 @@ In review: **[graphify](https://github.com/Graphify-Labs/graphify/pulls?q=author
 - 🎓 **Lead Instructor, Google for Startups** - AI product and prototyping for early-stage founders across India
 - 🏛️ **Visiting Faculty / Speaker** - IIT Bombay, MESA School of Business, Masters' Union and 20+ events on GenAI and product
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=shivamtiwari3&hide_border=true)
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/shivamtiwariin) · 24K+ founders and PMs follow along
