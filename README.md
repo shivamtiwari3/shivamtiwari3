@@ -1,6 +1,6 @@
 # Hi, I'm Shivam 👋
 
-📍 **Mumbai → Abu Dhabi** | 🧠 **AI Product Lead** | 🛠️ **Builder-PM** | 🚀 **Founder, Apli.ai (acquired)**
+📍 **Abu Dhabi, UAE** | 🧠 **AI Product Lead** | 🛠️ **Builder-PM** | 🚀 **Founder, Apli.ai (acquired)**
 
 I take AI products from demo to production and own what happens after: model choice, evals, cost per resolution, and the line where the agent stops and a human takes over.
 
