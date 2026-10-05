@@ -64,11 +64,16 @@ Merged upstream:
 - 🌳 **[Biome](https://github.com/biomejs/biome/pull/9515)** (26k★) - Skip unsupported `<script>` types in HTML
 - 🔍 **[Jaeger](https://github.com/jaegertracing/jaeger/pull/8178)** (23k★) - Guard addJitter against zero durations
 - 🤖 **[SWE-agent](https://github.com/SWE-agent/SWE-agent/pull/1366)** (20k★) - Thread-safe patch hook for multi-worker batch runs
+- ▲ **[Vercel AI SDK](https://github.com/vercel/ai/pull/15212)** (27k★) - PDF and other non-image files reach the OpenAI Responses API as `input_file`. Co-authored with [@aayush-kapoor](https://github.com/aayush-kapoor), from my [#14140](https://github.com/vercel/ai/pull/14140)
 - 🦜 **[LangChain.js](https://github.com/langchain-ai/langchainjs/pull/10413)** (18k★) - PPTXLoader on the officeparser v6 API
 - 🔺 **[Delta Lake](https://github.com/delta-io/delta/pull/6493)** (9k★) - Fix DeletionVectorDescriptor unique IDs
 - 🧠 **[exo](https://github.com/ankitvgupta/exo/pull/27)** - Allowlist instead of blocklist for the Bash PreToolUse hook
 
-In review: **[graphify](https://github.com/Graphify-Labs/graphify/pulls?q=author%3Ashivamtiwari3)** (124k★), 5 open PRs.
+In review:
+
+- 🔥 **[Python Fire](https://github.com/google/python-fire/pulls?q=author%3Ashivamtiwari3)** (Google, 28k★) - 4 PRs: short flags swallowed by `**kwargs`, completion for class-grouped commands, logging for diagnostics, custom `__repr__`
+- 🔎 **[Magika](https://github.com/google/magika/pulls?q=author%3Ashivamtiwari3)** (Google, 19k★) - 3 PRs: a public `get_content_type_info()` API, CLI colours for unmapped groups, typos CI
+- 🕸️ **[graphify](https://github.com/Graphify-Labs/graphify/pulls?q=author%3Ashivamtiwari3)** (124k★) - 8 PRs across extraction, markdown and language support
 
 ## How I Work
 
