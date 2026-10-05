@@ -84,4 +84,4 @@ In review: **[graphify](https://github.com/Graphify-Labs/graphify/pulls?q=author
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/shivamtiwariin) · 24K+ founders and PMs follow along
+🌐 [shivamtiwari.si](https://shivamtiwari.si) · 💼 [LinkedIn](https://www.linkedin.com/in/shivamtiwariin) · 24K+ founders and PMs follow along
